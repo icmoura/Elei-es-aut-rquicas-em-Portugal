@@ -3,14 +3,14 @@ Dados sobre candidatos, partidos e género
 
 
 
-Dados sobre candidatos por partido e Ciclo eleitoral
+Dados sobre candidatos por partido e município
 
 Fontes: 
 Secretaria Geral do Ministério da Administração Interna
 
 
 
-Número de recenseados em Portugal por Ciclo Eleitoral
+Número de recenseados em Portugal por Círculo Eleitoral
 
 Fontes:
 Pordata
